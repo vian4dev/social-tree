@@ -18,10 +18,10 @@ Apresentação da tela do aplicativo.
 ## Instalação
 Clone o repositório.
 ~~~
-git clone https://github.com/vian4dev/flexbox-twitter.git
+git clone https://github.com/vian4dev/social-tree.git
 ~~~
 Acesse o diretório do projeto.
 ~~~
-cd flexbox-twitter
+cd social-tree
 ~~~
 Abra a aplicação é execute o _index.html_ no seu navegador.
