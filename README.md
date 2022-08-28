@@ -16,3 +16,12 @@ Apresentação da tela do aplicativo.
 </div>
 
 ## Instalação
+Clone o repositório.
+~~~
+git clone https://github.com/vian4dev/flexbox-twitter.git
+~~~
+Acesse o diretório do projeto.
+~~~
+cd flexbox-twitter
+~~~
+Abra a aplicação é execute o _index.html_ no seu navegador.
