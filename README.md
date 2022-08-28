@@ -10,5 +10,9 @@
 </div>
 
 ## Demostração
+Apresentação da tela do aplicativo.
+<div align="center">
+  <img src="https://i.ibb.co/BzN9RFc/social-tree.png" alt="social-tree" border="0">
+</div>
 
 ## Instalação
