@@ -3,7 +3,7 @@
 ## ✒️ Descrição
 Neste desafio da Rocketseat foi desenvolvido uma página simples com uma lista de links que pode ser usada em perfis de redes sociais. O objetivo e colocar em prática os conhecimentos do Flexbox do CSS.
 
-## 💻 Tecnologias utilizadas
+## 🚀 Tecnologias utilizadas
 <div style="display: inline_block"><br>
   <img align="center" alt="img-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   
