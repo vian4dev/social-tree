@@ -25,4 +25,4 @@ Acesse o diretório do projeto.
 ~~~
 cd social-tree
 ~~~
-Abra a aplicação é execute o _index.html_ no seu navegador.
+Execute o _index.html_ no seu navegador.
