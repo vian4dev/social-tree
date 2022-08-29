@@ -1,7 +1,7 @@
 # Social Tree
 
 ## Descrição
-Neste desafio da Rocketseat foi desenvolvido uma página simples com uma lista de links que pode ser usada em perfis de redes sociais. O objetivo e colocar em prática os conhecimentos de Flexbox do CSS.
+Neste desafio da Rocketseat foi desenvolvido uma página simples com uma lista de links que pode ser usada em perfis de redes sociais. O objetivo e colocar em prática os conhecimentos do Flexbox do CSS.
 
 ## Tecnologias utilizadas
 <div style="display: inline_block"><br>
