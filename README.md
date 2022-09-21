@@ -1,3 +1,22 @@
+<div align="center">
+  <a href="https://github.com/vian4dev/social-tree/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/vian4dev/social-tree?style=social">
+  </a>
+  
+  <img alt="PRs welcome!" src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=7159c1&labelColor=000000" />
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=7159c1&labelColor=000000">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/vian4dev/social-tree?color=%2304D361">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/vian4dev/social-tree">
+	
+  <a href="https://github.com/vian4dev/social-tree/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/vian4dev/social-tree">
+  </a>
+  
+  <a href="https://www.linkedin.com/in/vianadev/">
+    <img alt="Made by vian4dev" src="https://img.shields.io/badge/made%20by-vian4dev-%2304D361">
+  </a>
+</div>
+
 # Social Tree
 
 ## ✒️ Descrição
