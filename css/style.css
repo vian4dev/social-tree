@@ -31,7 +31,7 @@ a {
   gap: .4rem;
   width: 26rem;
   height: 3rem;
-
+  transition: 0.5s ease;
 }
 
 a:hover {
@@ -44,6 +44,20 @@ a:hover {
   align-items: center;
   justify-content: center;
   margin-top: 35%;
+  margin-bottom: 25%;
+}
+
+.border-avatar {
+  display: flex;
+  position: absolute;
+  align-items: center;
+  justify-content: center;
+  width: 164px;
+  height: 164px;
+  border-radius: 50%;
+  border: 2px solid #BB99DD;
+  padding: 4px;
+
 }
 
 .title {
