@@ -46,7 +46,7 @@ git clone https://github.com/vian4dev/social-tree.git
 ~~~
 Acesse o diretório do projeto.
 ~~~
-cd social-tree
+cd social-tree/
 ~~~
 Execute o _index.html_ no seu navegador.
 
