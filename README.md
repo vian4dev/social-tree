@@ -36,12 +36,12 @@ Neste desafio da Rocketseat foi desenvolvido uma página simples com uma lista d
 ## 📷 Demostração
 Apresentação da tela do aplicativo.
 <div align="center">
-  <img src="./.github/social-tree.png" alt="social-tree" border="0">
+  <img src="./.github/social-tree.gif" alt="social-tree" border="0">
 </div>
 
 ## 🔥 Instalação
 Clone o repositório.
-~~~
+~~~ 
 git clone https://github.com/vian4dev/social-tree.git
 ~~~
 Acesse o diretório do projeto.
